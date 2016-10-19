@@ -1,0 +1,20 @@
+body{
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+form{
+  border: 1px solid black;
+  display: inline-block;
+  width: 20%;
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+}
+div.activities{
+  height: 250px;
+  border: 1px solid black;
+  overflow: scroll;
+  color: green;
+}
+.red{
+  color: red;
+}
